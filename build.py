@@ -8,7 +8,7 @@ import json
 import pathlib
 
 ROOT = pathlib.Path(__file__).parent
-BASE_URL = "https://kkiruk-studio.github.io/deskbreath/"
+BASE_URL = "https://www.kkirukstudio.com/deskbreath/"
 
 # Fill in after App Store approval (e.g. https://apps.apple.com/app/id1234567890),
 # then re-run `python3 build.py`. Empty renders a disabled "Coming soon" badge.
